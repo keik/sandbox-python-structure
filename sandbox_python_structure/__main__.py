@@ -6,4 +6,5 @@ def f():
 
 
 def _f():
+    print('dummya')
     pass
