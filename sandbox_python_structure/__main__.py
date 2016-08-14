@@ -3,3 +3,7 @@
 
 def f():
     return 'hi'
+
+
+def _f():
+    pass
