@@ -6,5 +6,8 @@ def f():
 
 
 def _f():
-    print('dummya')
+    print('dummy')
+    print('dummy')
+    print('dummy')
+    print('dummy')
     pass
