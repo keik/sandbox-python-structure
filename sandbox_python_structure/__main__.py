@@ -10,4 +10,8 @@ def _f():
     print('dummy')
     print('dummy')
     print('dummy')
+    print('dummy')
+    print('dummy')
+    print('dummy')
+    print('dummy')
     pass
