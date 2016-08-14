@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import sandbox_python_structure
 from setuptools import setup, find_packages
 
 setup(name='sandbox-python-structure',
-      version=sandbox_python_structure.__version__,
-      description=sandbox_python_structure.__desc__,
-      author=sandbox_python_structure.__author__,
-      author_email=sandbox_python_structure.__author_email__,
-      url=sandbox_python_structure.__url__,
+      version='0.0.1-dev1',
+      description="""Sandbox for Python project structure""",
+      author='keik',
+      author_email='k4t0.kei@gmail.com',
+      url='https://github.com/keik/sandbox-python-structure.git',
+      license='MIT',
       packages=find_packages(),
       classifiers=[
           'Development Status :: 3 - Alpha',
