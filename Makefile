@@ -1,6 +1,6 @@
 TAG="\n\n\033[0;32m\#\#\# "
 END=" \#\#\# \033[0m\n"
-SELF="a"
+SELF="sandbox-python-structure"
 DEV_DEPS="requirements-dev.txt"
 
 test: init

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from a import f
+from sandbox_python_structure import f
 
 
 def test_parse_no_subarg():
