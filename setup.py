@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(name='sandbox-python-structure',
-      version='0.0.1-dev1',
+      version='0.0.1',
       description="""Sandbox for Python project structure""",
       author='keik',
       author_email='k4t0.kei@gmail.com',
